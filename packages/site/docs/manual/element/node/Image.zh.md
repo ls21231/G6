@@ -76,7 +76,7 @@ const graph = new Graph({
     style: {
       size: 40,
       labelText: (d) => d.id,
-      src: 'https://gw.alipayobjects.com/mdn/rms_6ae20b/afts/img/A*N4ZMS7gHsUIAAAAAAAAAAABkARQnAQ',
+      src: 'https://gw.alipayobjects.com/mdn/rms_6ae20b/afts/img/A*N4ZMS7gHsUIAAAAAAAAAAABkARQn](https://hd-oss.cosmoplat.com/hdCosmo92:industry-test/77/2025/12/2/75/边缘控制系统 _1764639646807.png',
       haloStroke: '#227eff',
       halo: (d) => (d.id === 'halo' ? true : false),
       badges: (d) =>
